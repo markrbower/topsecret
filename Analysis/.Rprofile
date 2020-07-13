@@ -1,2 +1,3 @@
-source("./R/init_here.R")
+library(devtools)
+devtools::load_all()
 init_here()
