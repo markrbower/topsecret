@@ -3,4 +3,6 @@
 export(addNewSecret)
 export(addNewUserToSecretVault)
 export(deleteSecretsWithSubstring)
+export(get)
 export(get_secret_vault)
+export(init_here)
