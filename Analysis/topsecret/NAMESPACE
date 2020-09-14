@@ -2,6 +2,7 @@
 
 export(addNewSecret)
 export(addNewUserToSecretVault)
+export(create_ssh_keys)
 export(deleteSecretsWithSubstring)
 export(get)
 export(get_secret_vault)
